@@ -10,6 +10,11 @@ body {
     padding : 2px;
     align-items: center;
 }
+.titles{
+    display: flex;
+    flex-direction: column;
+    line-height: 0px
+}
 h1{
     color : rgb(255, 197, 255);
     text-align: center;
